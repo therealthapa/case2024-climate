@@ -1,4 +1,4 @@
-# Task 4 - Shared task on Multimodal Hate Speech Event Detection at [CASE 2024](https://emw.ku.edu.tr/case-2024/) #
+# Task 3 - Shared task on Climate Activism Hate Event and Stance Detection at [CASE 2024](https://emw.ku.edu.tr/case-2024/) #
 
 Hate speech detection and stance detection are some of the most important aspects of event identification during climate events. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. Given a text, this task aims to automatically identify the hate speech, targets of hate speech, and stance. This task will have three subtasks.
 
