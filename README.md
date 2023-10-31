@@ -1,21 +1,27 @@
 # Task 4 - Shared task on Multimodal Hate Speech Event Detection at [CASE 2023](https://emw.ku.edu.tr/case-2024/) #
 
+Hate speech detection and stance detection are some of the most important aspects of event identification during climate events. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. Given a text, this task aims to automatically identify the hate speech, targets of hate speech, and stance. This task will have three subtasks.
+
 Details 
 
 ## Sub-task A ##
-**Stance**
+<b> Hate Speech Detection:</b> The goal of this task is to identify whether the given text contains hate speech or not. The text, which are the dataset for this subtask, will have annotations for the prevalence of hate speech.
+
 
 ## Sub-task B ##
-**Hate Speech**
+<b> Targets of Hate Speech Detection:</b> The goal of this subtask is to identify the targets of hate speech in a given hateful text. The text are annotated for "individual", "organization", and "community" targets.
+
 
 ## Sub-task C ##
-**Targets of Hate Speech**
+<b> Stance Detection:</b> The goal of this subtask is to identify the stance in a given text. The text are annotated for "support", "oppose", and "neutral" stance.
+
 
 ## Participation ##
 
 In order to participate in the competition, please Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/13087)
 
 ## Dataset ## 
+All the text have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
 ## Evaluation ## 
 
@@ -23,7 +29,7 @@ The results are only accepted in codalab. The submission will be evaluated with 
 
 The script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. We will only take the first file in the zip folder, so do not zip multiple files together. 
 
-<b>IMPORTANT:</b> The index (text name) in json should be in ascending order.
+<b>IMPORTANT:</b> The index (text ID) in json should be in ascending order.
 
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
@@ -41,7 +47,7 @@ Similarly, for the subtask B, the final prediction submissions should be like th
 {"index": 15708, "prediction": 3}
 ```
 
-<b>IMPORTANT:</b> The index (text name) in json should be in ascending order.
+<b>IMPORTANT:</b> The index (text ID) in json should be in ascending order.
 
 
 ## Publication ##
