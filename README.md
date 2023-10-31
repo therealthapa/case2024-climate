@@ -34,17 +34,27 @@ The script takes one prediction file as the input. Your submission file must be 
 For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
 ```python
+{"index": 15636, "prediction": 0}
 {"index": 16006, "prediction": 1}
 {"index": 19818, "prediction": 0}
-{"index": 15636, "prediction": 0}
 ```
 
 Similarly, for the subtask B, the final prediction submissions should be like the following. Make sure that your individual, organization, and community labels are given as "1", "2", and "3" respectively.
 
 ```python
 {"index": 13943, "prediction": 1}
-{"index": 16692, "prediction": 2}
 {"index": 15708, "prediction": 3}
+{"index": 16692, "prediction": 2}
+```
+
+<b>IMPORTANT:</b> The index (text ID) in json should be in ascending order.
+
+Similarly, for the subtask C, the final prediction submissions should be like the following. Make sure that your support, oppose, and neutral labels are given as "1", "2", and "3" respectively.
+
+```python
+{"index": 10433, "prediction": 1}
+{"index": 18276, "prediction": 3}
+{"index": 20346, "prediction": 2}
 ```
 
 <b>IMPORTANT:</b> The index (text ID) in json should be in ascending order.
