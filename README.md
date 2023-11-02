@@ -1,4 +1,4 @@
-# Task 3 - Shared task on Climate Activism Stance and Hate Event Detection at [CASE 2024](https://emw.ku.edu.tr/case-2024/) #
+# Task 1@CASE 2024 - Shared task on Climate Activism Stance and Hate Event Detection at [CASE 2024](https://emw.ku.edu.tr/case-2024/) #
 
 Hate speech detection and stance detection are some of the most important aspects of event identification during climate change activism events. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. The hate speech event has targets to which hate is directed. Identification of targets is an important task within hate speech event detection. Additionally, stance event detection is an important part of assessing the dynamics of protests and activisms for climate change. This helps to understand whether the activist movements and protests are being supported or opposed. Thus, in this shared task, we provide three sub-tasks. 
 
