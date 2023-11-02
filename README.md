@@ -60,6 +60,24 @@ Participants in the Shared Task are expected to submit a paper to the workshop. 
 Top-performing teams and best models will be invited for a special issue in journals (T.B.D.).
 
 ## Timeline of the Events ##
+<ul>
+
+<li>Training & Evaluation data available: Nov 1, 2023 </li>
+
+<li>Test data available: Nov 30, 2023 </li>
+
+<li>Test start: Nov 30, 2023 </li>
+
+<li>Test end: Jan 5, 2024 </li>
+
+<li>System Description Paper submissions due: Jan 12, 2024 </li>
+
+<li>Notification to authors after review: Jan 26, 2024 </li>
+
+<li>Camera ready: Jan 30, 2024 </li>
+
+<li>CASE Workshop: 21-22 Mar, 2024 </li>
+</ul>
 
 ## Organizers ##
 <ul>
