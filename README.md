@@ -25,26 +25,21 @@ In order to participate in the competition, please Join our codalab competition 
 
 **Eval Data:**
 
-SubTask-A
-https://drive.google.com/file/d/18SQ7JXd9tJQByUeQRYJz5CdUIJWqDoCk/view?usp=sharing
 
-SubTask-B
-https://drive.google.com/file/d/1Scwkb6kI3CG-zzHbkWri1lcypUc68Zcz/view?usp=sharing
-
-SubTask-C
-https://drive.google.com/file/d/1s-iV5Qpp9--eoxqrjYhoi2LPL47W1MNw/view?usp=sharing
+| SubTask | Link |
+|----------|----------|
+| SubTask-A | [here](https://drive.google.com/file/d/18SQ7JXd9tJQByUeQRYJz5CdUIJWqDoCk/view?usp=sharing) |
+| SubTask-B | [here](https://drive.google.com/file/d/1Scwkb6kI3CG-zzHbkWri1lcypUc68Zcz/view?usp=sharing) |
+| SubTask-C | [here](https://drive.google.com/file/d/1s-iV5Qpp9--eoxqrjYhoi2LPL47W1MNw/view?usp=sharing) |
 
 
 **Test Data:**
 
-SubTask-A
-https://drive.google.com/file/d/1bZ8GglFqdDhRk_9CbHlTyI0qlYAlNc5h/view?usp=sharing
-
-SubTask-B
-https://drive.google.com/file/d/1OJmz9SULtxQDhnNXOiBZIoftmtqxNckj/view?usp=sharing
-
-SubTask-C
-https://drive.google.com/file/d/1TRocNnYOMq_5SzC5sf8iTT2SN7MCJ7Hz/view?usp=sharing
+| SubTask | Link |
+|----------|----------|
+| SubTask-A | [here](https://drive.google.com/file/d/1bZ8GglFqdDhRk_9CbHlTyI0qlYAlNc5h/view?usp=sharing) |
+| SubTask-B | [here](https://drive.google.com/file/d/1OJmz9SULtxQDhnNXOiBZIoftmtqxNckj/view?usp=sharing) |
+| SubTask-C | [here](https://drive.google.com/file/d/1TRocNnYOMq_5SzC5sf8iTT2SN7MCJ7Hz/view?usp=sharing) |
 
 ## Dataset ## 
 All the text has a unique identifier called "index". The labels for training data are given along with the dataset. For evaluation and testing, the submission format is mentioned below.
