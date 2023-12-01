@@ -17,15 +17,11 @@ In order to participate in the competition, please Join our codalab competition 
 
 **Training Data:**
 
-SubTask-A
-https://drive.google.com/file/d/1bjqQ7CHIGZpTB0aDinkry5sfCAUCMyx_/view?usp=sharing
-
-SubTask-B
-https://drive.google.com/file/d/16eaYd4ks4zyIIOHM91edZndrt9ogGBsu/view?usp=sharing
-
-SubTask-C
-https://drive.google.com/file/d/16gdvDM3jTIaym_oe79Di15ByCUwQMXOm/view?usp=sharing
-
+| SubTask | Link |
+|----------|----------|
+| SubTask-A | [here](https://drive.google.com/file/d/1bjqQ7CHIGZpTB0aDinkry5sfCAUCMyx_/view?usp=sharing) |
+| SubTask-B | [here](https://drive.google.com/file/d/16eaYd4ks4zyIIOHM91edZndrt9ogGBsu/view?usp=sharing) |
+| SubTask-C | [here](https://drive.google.com/file/d/16gdvDM3jTIaym_oe79Di15ByCUwQMXOm/view?usp=sharing) |
 
 **Eval Data:**
 
