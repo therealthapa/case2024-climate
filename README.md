@@ -94,7 +94,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 
 <li>Test start: Nov 30, 2023 </li>
 
-<li>Test end: Jan 5, 2024 </li>
+<li>Test end: Jan 7, 2024 </li>
 
 <li>System Description Paper submissions due: Jan 12, 2024 </li>
 
